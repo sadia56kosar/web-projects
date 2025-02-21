@@ -1,2 +1,2 @@
 # web-projects
-This repository contains different fornt end web task
+This repository contains different front- end web task
